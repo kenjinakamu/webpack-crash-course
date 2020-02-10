@@ -5,5 +5,5 @@ import './style.scss';
 
 ReactDOM.render(
   <div>Hello, React!</div>,
-  document.getElementById('root')
-)
+  document.getElementById('root'),
+);
