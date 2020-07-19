@@ -47,7 +47,7 @@
   "dependencies": {
     "css-loader": "^2.1.0",
     "eslint": "^5.16.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "save-dev": "0.0.1-security",
